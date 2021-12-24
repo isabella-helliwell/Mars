@@ -1,0 +1,11 @@
+.bg-image {
+background-image: url('mars.jpg');
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+}
+
+
+
+
